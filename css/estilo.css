@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 10px;
+   
+}
+fieldset{
+    padding: 10px;
+    width: 400px;
+    margin-top: 15px;
+}
+
+form input{
+    margin-bottom:  10px;
+}
+form select{
+    margin-bottom:  10px;
+}
+form textarea{
+    margin-bottom:  10px;
+}
